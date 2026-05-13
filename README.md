@@ -1,6 +1,6 @@
 # ServImage
 
-ServImage is an image generation and editing benchmark built from real-world commercial imaging services.
+ServImage: An Image Generation and Editing Benchmark from Real-world Commercial Imaging Services.
 
 ## Dataset
 
